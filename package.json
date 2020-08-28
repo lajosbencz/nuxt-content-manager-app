@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-content-manager-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "iview": "^3.5.4",
+    "nuxt": "^2.14.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {}
+}
